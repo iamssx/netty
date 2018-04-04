@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/netty.iml" filepath="$PROJECT_DIR$/.idea/netty.iml" />
+      <module fileurl="file://$PROJECT_DIR$/nettydiscard/nettydiscard.iml" filepath="$PROJECT_DIR$/nettydiscard/nettydiscard.iml" />
+      <module fileurl="file://$PROJECT_DIR$/nettyecho/nettyecho.iml" filepath="$PROJECT_DIR$/nettyecho/nettyecho.iml" />
+    </modules>
+  </component>
+</project>
